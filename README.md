@@ -1,6 +1,7 @@
 # Website Template V1
 
 A full fledged template for a website's Homepage.
+Used Lorem Ipsum for reading legibility and layout.
 
 <b>Header Section with:</b>
 
