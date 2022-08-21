@@ -7,7 +7,7 @@ A full fledged template for a website's Homepage.
 • Login button
 • Quick Section Jumping (upper right page)
 
-Main content with:
+<b>Main content with:</b>
 
 • Title + quick Search
 • Company Logo partnerships
@@ -15,6 +15,6 @@ Main content with:
 • Photography highlight with the "products"
 • Customer reviews
 
-Page footer with:
+<b>Page footer with:</b>
 
 • Legal / Contract / Extra section at the bottom of the page
