@@ -1,12 +1,14 @@
-# Website-Template V1
+# Website Template V1
 
 A full fledged template for a website's Homepage.
 
 Header Section with:
+
 • Login button
 • Quick Section Jumping (upper right page)
 
 Main content with:
+
 • Title + quick Search
 • Company Logo partnerships
 • Template for Bandcamp like Music Playlist with Like/Download/Options
@@ -14,4 +16,5 @@ Main content with:
 • Customer reviews
 
 Page footer with:
+
 • Legal / Contract / Extra section at the bottom of the page
