@@ -3,15 +3,10 @@ body{
     margin: 0 auto
 }
 
-.picture_container_{
-
-}
-
 .text-responsive {
     font-size: calc(100% + 1vw + 1vh);
-  }
+}
   
-
 .first_section{
     background-image: url(./images/pawel-czerwinski-eybM9n4yrpE-unsplash\ 2.png);
     object-fit: cover;
@@ -36,16 +31,6 @@ body{
     /* border-bottom: solid white; */
 
 }
-
-/* .navbar{
-    border: 1px solid red;
-} */
-/* .nav-item a {
-    color: white;
-}
-.navbar-toggler {
-    border: 2px solid green;
-} */
 
 .navbar-toggler-icon{
     background-image: url(./images/Group\ 6.png);
@@ -311,11 +296,6 @@ text-align: center;
     margin: 0 auto;
 }
 
-/* .one_image_row_one{
-    display: flex;
-    flex-wrap: wrap;
-} */
-
 .one_image_row_one img{
     margin-top: 1rem;
     /* max-width:150px ; */
@@ -338,17 +318,6 @@ text-align: center;
     width: 90%;
     margin: 0 auto;
 }
-
-/* .below_image_section_main {
-    display: flex;
-    justify-content: space-between;
-    
-} */
-/* .below_image_section_main_text{
-    display: flex;
-    flex-direction: column;
-    max-width: 40%;
-} */
 
 .card img{
     max-width:56px ;
@@ -414,10 +383,6 @@ text-align: center;
 
 }
 
-/* .card_second{
-    border-color: 1px solid #CDD6F9;
-} */
-
 #card_b_two{
     background-color: #1B4BFF;
     height: 100%;
@@ -444,10 +409,6 @@ text-align: center;
 #no_background_btn{
     background-color: none !important;
 }
-
-/* .btn-primary{
-    background-color: none !important;
-} */
 
 .comment_cards{
     /* width: 19rem;
@@ -479,7 +440,6 @@ text-align: center;
 .before_last_section p{
     margin-top: 3rem;
     margin-bottom: 1.25rem;
-    
 }
 
 .footer_section{
@@ -489,7 +449,6 @@ text-align: center;
     align-items: center;
     display: flex;
     justify-content: space-around;
-
 }
 .footer-col1{
     margin-top: 4.688rem;
@@ -500,7 +459,6 @@ text-align: center;
     font-size: 16px;
     line-height: 180%;
     letter-spacing: -0.05em;
-
 }
 
 .footer-col1 p{
@@ -508,8 +466,6 @@ text-align: center;
     font-size: 16px;
     line-height: 180%;
     letter-spacing: -0.05em;
-    
-
 }
 
 .footer-logo p{
@@ -519,8 +475,6 @@ text-align: center;
     letter-spacing: -0.05em;
     margin-top: 1.563rem;
     margin-bottom: 1.563rem;
-    
-
 }
 
 
