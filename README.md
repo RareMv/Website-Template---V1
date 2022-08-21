@@ -2,7 +2,7 @@
 
 A full fledged template for a website's Homepage.
 
-Header Section with:
+<b>Header Section with:</b>
 
 • Login button
 • Quick Section Jumping (upper right page)
