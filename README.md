@@ -19,3 +19,5 @@ Used Lorem Ipsum for reading legibility and layout.
 <b>Page footer with:</b>
 
 • Legal / Contract / Extra section at the bottom of the page
+
+Website can be viewed here: https://raremv.github.io/Website-Template---V1/
